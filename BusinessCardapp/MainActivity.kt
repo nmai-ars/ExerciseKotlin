@@ -74,14 +74,13 @@ fun ProfileSection() {
             painter = painterResource(id = R.drawable.my_photo),
             contentDescription = "My Photo",
             modifier = Modifier
-                .size(170.dp) // ✅ to hơn
+                .size(170.dp)
                 .clip(CircleShape)
                 .border(3.dp, Color(0xFF00796B), CircleShape)
         )
 
         Spacer(modifier = Modifier.height(20.dp))
 
-        // ✅ Name
         Text(
             text = "Ngọc Mai ITer",
             fontSize = 34.sp,
