@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Woof App</string>
+    <string name="dog_name_1">Tuyen</string>
+    <string name="dog_name_2">Nhum</string>
+    <string name="dog_name_3">Ngan</string>
+    <string name="dog_name_4">Mi</string>
+    <string name="dog_name_5">Cho</string>
+    <string name="dog_name_6">Meo</string>
+    <string name="dog_name_7">KIKI</string>
+    <string name="dog_name_8">BIBI</string>
+
+<string name="years_old">%1$d years old</string>
+</resources>
