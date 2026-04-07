@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thigiuaki</string>
+    <string name="title_activity_update_user">UpdateUser</string>
+    <string name="title_activity_user_details1">UserDetailsActivity1</string>
+</resources>

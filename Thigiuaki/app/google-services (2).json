@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248830471170",
+    "project_id": "thigiuaki-63a8b",
+    "storage_bucket": "thigiuaki-63a8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248830471170:android:a95ac62f20d1e2cac3cb1b",
+        "android_client_info": {
+          "package_name": "com.example.thigiuaki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcjPmjTUefeiwuOzTRpV8rKQbaMZAA78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
