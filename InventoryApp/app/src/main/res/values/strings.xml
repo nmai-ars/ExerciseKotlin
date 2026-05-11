@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="add_item_title">Add Item</string>
+    <string name="item_entry_title">Add Item</string>
+    <string name="item_details_title">Item Details</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="home_title">Inventory</string>
+    <string name="no_inventory_description">No inventory found.</string>
+    <string name="item_name_req">Item Name*</string>
+    <string name="item_price_req">Item Price*</string>
+    <string name="quantity_req">Quantity in Stock*</string>
+    <string name="save_action">Save</string>
+    <string name="delete">Delete</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="in_stock">%1$d in stock</string>
+    <string name="required_fields">*required fields</string>
+</resources>
